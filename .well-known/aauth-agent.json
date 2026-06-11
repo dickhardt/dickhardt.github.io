@@ -1,0 +1,6 @@
+{
+  "issuer": "https://dickhardt.github.io",
+  "jwks_uri": "https://dickhardt.github.io/.well-known/jwks.json",
+  "client_name": "Dick Hardt",
+  "logo_uri": "https://avatars.githubusercontent.com/u/688982?v=4"
+}

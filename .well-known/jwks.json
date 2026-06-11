@@ -1,0 +1,17 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "GPLXUcIAXcUEi2hXodGh-PAzxr7QM76jeiVJU021XP4",
+      "y": "KNMZ-Pqdf6AsjHeWDhOkzwWSHNH2YKK1-mK5wL963Q0",
+      "kid": "2026-06-11_577",
+      "use": "sig",
+      "alg": "ES256",
+      "aauth": {
+        "device": "mac.home",
+        "created": "2026-06-11"
+      }
+    }
+  ]
+}
