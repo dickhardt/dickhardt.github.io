@@ -1,0 +1,9 @@
+{
+  "issuer": "https://dickhardt.github.io",
+  "jwks_uri": "https://dickhardt.github.io/.well-known/jwks.json",
+  "name": "Dick's local PS (e2e)",
+  "description": "A scripted person server for the senzing.aauth.dev live end-to-end test. It mints person tokens and federates with access.aauth.dev from a local script; nothing calls its endpoints.",
+  "documentation_uri": "https://github.com/aauth-dev/senzing",
+  "person_token_endpoint": "https://dickhardt.github.io/aauth/unavailable",
+  "auth_token_endpoint": "https://dickhardt.github.io/aauth/unavailable"
+}
